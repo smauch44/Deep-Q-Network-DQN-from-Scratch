@@ -1,0 +1,12 @@
+2026-04-14 09:41:11,575 [INFO] env_setup — Starting CartPole-v1 environment verification.
+2026-04-14 09:41:11,602 [INFO] env_setup — Initial observation: [ 0.0273956  -0.00611216  0.03585979  0.0197368 ]
+2026-04-14 09:41:11,603 [INFO] env_setup — Initial info: {}
+2026-04-14 09:41:11,603 [INFO] env_setup — Observation shape: (4,)
+2026-04-14 09:41:11,603 [INFO] env_setup — Action space: Discrete(2)
+2026-04-14 09:41:11,603 [INFO] env_setup — Observation space: Box([-4.8               -inf -0.41887903        -inf], [4.8               inf 0.41887903        inf], (4,), float32)
+2026-04-14 09:41:12,304 [INFO] env_setup — Step 1 | action=1 reward=1.0 terminated=False truncated=False frame_shape=(400, 600, 3)
+2026-04-14 09:41:12,308 [INFO] env_setup — Step 2 | action=1 reward=1.0 terminated=False truncated=False frame_shape=(400, 600, 3)
+2026-04-14 09:41:12,311 [INFO] env_setup — Step 3 | action=0 reward=1.0 terminated=False truncated=False frame_shape=(400, 600, 3)
+2026-04-14 09:41:12,314 [INFO] env_setup — Step 4 | action=1 reward=1.0 terminated=False truncated=False frame_shape=(400, 600, 3)
+2026-04-14 09:41:12,317 [INFO] env_setup — Step 5 | action=1 reward=1.0 terminated=False truncated=False frame_shape=(400, 600, 3)
+2026-04-14 09:41:12,320 [INFO] env_setup — Environment setup verification completed successfully.

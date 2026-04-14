@@ -1,0 +1,14 @@
+2026-04-14 09:41:25,917 [INFO] data_collection — Starting data collection for 10 episodes.
+2026-04-14 09:41:25,918 [INFO] data_collection — Episode 001 | reward=11.0 length=11 epsilon=0.9950 replay_size=11
+2026-04-14 09:41:25,919 [INFO] data_collection — Episode 002 | reward=18.0 length=18 epsilon=0.9900 replay_size=29
+2026-04-14 09:41:25,919 [INFO] data_collection — Episode 003 | reward=10.0 length=10 epsilon=0.9851 replay_size=39
+2026-04-14 09:41:25,920 [INFO] data_collection — Episode 004 | reward=15.0 length=15 epsilon=0.9801 replay_size=54
+2026-04-14 09:41:25,920 [INFO] data_collection — Episode 005 | reward=20.0 length=20 epsilon=0.9752 replay_size=74
+2026-04-14 09:41:26,203 [INFO] data_collection — Episode 006 | reward=21.0 length=21 epsilon=0.9704 replay_size=95
+2026-04-14 09:41:26,204 [INFO] data_collection — Episode 007 | reward=13.0 length=13 epsilon=0.9655 replay_size=108
+2026-04-14 09:41:26,205 [INFO] data_collection — Episode 008 | reward=36.0 length=36 epsilon=0.9607 replay_size=144
+2026-04-14 09:41:26,207 [INFO] data_collection — Episode 009 | reward=57.0 length=57 epsilon=0.9559 replay_size=201
+2026-04-14 09:41:26,209 [INFO] data_collection — Episode 010 | reward=22.0 length=22 epsilon=0.9511 replay_size=223
+2026-04-14 09:41:26,209 [INFO] data_collection — Summary | episodes=10 avg_reward=22.30 max_reward=57.00 min_reward=10.00 avg_length=22.30 max_length=57 min_length=10
+2026-04-14 09:41:26,209 [INFO] data_collection — Replay buffer verification | transitions=223 ready_to_train=False
+2026-04-14 09:41:26,209 [INFO] data_collection — Data collection environment closed.
